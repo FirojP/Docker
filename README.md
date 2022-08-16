@@ -1,1 +1,2 @@
-# Dockerfile
+# Dockerfile after clone
+
